@@ -1,0 +1,34 @@
+Original: https://www.utechsapna.com/
+
+When creating pages please make reference to the original
+For e.g. if you are working on projects page make reference to https://www.utechsapna.com/home/projects
+
+better typing animation 
+switch out video
+on hover tab bug (who we are, our vision, etc.)
+Home page filler image of some type (Some Filler thing Here)
+Contact page to sapna email
+Footer links and formatting
+
+Only the homepage should have videon and the on hover tab bug (who we are, our vision, etc.)
+The other pages should remove on hover tabs and the text in the middle, text in the middle changed
+to page name
+
+Format current and past member slideshow
+Selected member page
+
+Center projetcs on project page
+Each project should have a section for 
+(Project Timeline, Technologies Used, Members involved, Client Project URL)
+
+Style Skil sections
+Selected Skill Page
+
+Correct fields for login and register page
+
+Responsiveness
+Realizing the dream, on hover tab bug (who we are, our vision, etc.), our tech stack, etc.
+
+The onhover effect for the top nav should be removed and used as the active effect (e,g, if you are
+on the home page, the home item should be have the onhover effect permanently; can be done by
+moving the hover code to a css class called active and adding the active class to home)
