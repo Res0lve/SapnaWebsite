@@ -1647,6 +1647,195 @@
     border: none;
   }
 
+  /* Login */
+
+  section.login {
+    background-image: url(../images/contact-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #172238;
+    padding: 80px;
+    text-align: center;
+  }
+
+
+  section.login form {
+    background-color: rgba(250, 250, 250, 0.1);
+    padding: 30px;
+    width: auto;
+    text-align: center;
+    align-content: center;
+    
+  }
+
+
+  @media screen and (max-width: 767px) {
+    section.login form {
+      margin-bottom: 30px;
+      
+    }
+  }
+
+  section.login form input {
+    width: 100%;
+    height: 40px;
+    background-color: rgba(250, 250, 250, 0.1);
+    border-radius: 0px;
+    border: none;
+    outline: none;
+    color: #fff;
+    font-size: 13px;
+    margin-bottom: 30px;
+    letter-spacing: 0.5px;
+    align-content: center;
+    
+  }
+
+  section.login form input:focus,
+  section.login form textarea:focus {
+    outline: none;
+    border: none;
+    box-shadow: none;
+    color: #fff;
+    background-color: rgba(250, 250, 250, 0.1);
+    align-content: center;  
+    
+  }
+
+  section.login form::placeholder {
+    color: #fff
+  }
+
+  section.login form input::placeholder {
+    color: #fff;
+  }
+
+  section.login form input::placeholder {
+    color: #fff;
+  }
+
+  section.login form::placeholder {
+    color: #fff
+  }
+
+  section.login form textarea::placeholder {
+    color: #fff;
+  }
+
+  section.login form textarea::placeholder {
+    color: #fff;
+  }
+
+  section.login form button {
+    background-color: #f5a425;
+    color: #fff;
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    font-weight: 700;
+    padding: 12px 20px;
+    display: inline-block;
+    outline: none;
+    box-shadow: none;
+    border: none;
+    
+  }
+
+
+   /* Register */
+
+   section.register {
+    background-image: url(../images/contact-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #172238;
+    padding: 80px;
+    text-align: center;
+  }
+
+
+  section.register form {
+    background-color: rgba(250, 250, 250, 0.1);
+    padding: 30px;
+    width: auto;
+    text-align: center;
+    align-content: center;
+    
+  }
+
+
+  @media screen and (max-width: 767px) {
+    section.register form {
+      margin-bottom: 30px;
+      
+    }
+  }
+
+  section.register form input {
+    width: 100%;
+    height: 40px;
+    background-color: rgba(250, 250, 250, 0.1);
+    border-radius: 0px;
+    border: none;
+    outline: none;
+    color: #fff;
+    font-size: 13px;
+    margin-bottom: 30px;
+    letter-spacing: 0.5px;
+    align-content: center;
+    
+  }
+
+  section.register form input:focus,
+  section.register form textarea:focus {
+    outline: none;
+    border: none;
+    box-shadow: none;
+    color: #fff;
+    background-color: rgba(250, 250, 250, 0.1);
+    align-content: center;  
+    
+  }
+
+  section.register form::placeholder {
+    color: #fff
+  }
+
+  section.register form input::placeholder {
+    color: #fff;
+  }
+
+  section.register form input::placeholder {
+    color: #fff;
+  }
+
+  section.register form::placeholder {
+    color: #fff
+  }
+
+  section.register form textarea::placeholder {
+    color: #fff;
+  }
+
+  section.register form textarea::placeholder {
+    color: #fff;
+  }
+
+  section.register form button {
+    background-color: #f5a425;
+    color: #fff;
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    font-weight: 700;
+    padding: 12px 20px;
+    display: inline-block;
+    outline: none;
+    box-shadow: none;
+    border: none;
+    
+  }
+
   /* Footer */
 
   footer {
